@@ -1,0 +1,77 @@
+# Translation of Themes - CoziPlus in Ukrainian
+# This file is distributed under the same license as the Themes - CoziPlus package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-15 13:13:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - CoziPlus\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "CoziPlus is an innovative responsive multi-purpose WordPress theme with a super modern, clean and fresh design. CoziPlus has the most suitable everything for all engaging business sites, the theme is extremely feature-rich and powerful. Checkout Pro Version https://burgerthemes.com/demo/pro/coziplus/"
+msgstr "CoziPlus - це інноваційна та гнучка багатоцільова тема від WordPress з надзвичайно сучасним, чистим та свіжим дизайном. У CoziPlus є все, що необхідно для бізнес-сайту, вона надзвичайно потужна та функціональна. Ознайомтеся з версією Pro https://burgerthemes.com/demo/pro/coziplus/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "CoziPlus"
+msgstr "CoziPlus"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in CoziPlus Pro"
+msgstr "Отримати більше функцій у CoziPlus Pro"
+
+#: template-parts/sections/section-header.php:209
+msgid "Header Above Collapse"
+msgstr "Згортання верху заголовку"
+
+#: template-parts/sections/section-header.php:204
+msgid "Header Close Menu"
+msgstr "Меню закриття заголовку"
+
+#: template-parts/sections/section-header.php:195
+msgid "Menu Collaped"
+msgstr "Згорнуте меню"
+
+#: template-parts/sections/section-header.php:135
+msgid "0"
+msgstr "0"
+
+#: template-parts/sections/section-header.php:108
+msgid "Search Popup Close"
+msgstr "Закриття спливаючого пошуку"
+
+#: template-parts/sections/section-header.php:105
+msgid "Type To Search"
+msgstr "Введіть для пошуку"
+
+#: template-parts/sections/section-header.php:104
+msgid "Site Search"
+msgstr "Пошук по сайту"
+
+#: template-parts/sections/section-header.php:99
+msgid "Search Popup"
+msgstr "Cпливаючий пошук"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Перейти до контенту"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/coziplus-free/"
+msgstr "https://burgerthemes.com/coziplus-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "burgersoftware"
+msgstr "burgersoftware"

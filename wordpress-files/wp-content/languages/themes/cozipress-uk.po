@@ -1,0 +1,519 @@
+# Translation of Themes - CoziPress in Ukrainian
+# This file is distributed under the same license as the Themes - CoziPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-12 10:39:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - CoziPress\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "CoziPress is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. CoziPress provides unique layouts Such as Service, Team, About, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon, Careers Page, and many more. If you are a lover of creative designs and would like to build a very unique and professional website quickly then your search should end at CoziPress. Checkout Pro Version https://burgerthemes.com/demo/pro/cozipress/"
+msgstr ""
+"CoziPress — це сучасна багатоцільова бізнес-тема, яка завдяки своїй адаптивності, створена для агенцій, бізнесу, фінансів, консалтингу, виробництва, нерухомості, будівництва, клінінгових послуг, стартапів та будь-якого індивідуального сайту. Вона виглядає досконало на всіх сучасних браузерах, мобільних, планшетах та інших пристроях. Тема містить безліч налаштувань, ви можете змінити будь-що. CoziPress надає унікальні розмітки, такі як Послуги, Команда, Про нас, Галерея, Сторінки блогу, Сторінки магазину, Прайслисти, Сторінка контактів, Незабаром у продажу, Сторінка вакансій та багато інших. Якщо ви поціновувач креативного дизайну і хотіли б створювати унікальні і професійні сайти швидко, ваші пошуки закінчаться на CoziPress. Дізнайтесь про версію Pro\n"
+"https://burgerthemes.com/demo/pro/cozipress/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "CoziPress"
+msgstr "CoziPress"
+
+#: footer.php:56
+msgid "<a href=\"#\">CoziPress</a>"
+msgstr "<a href=\"#\">CoziPress</a>"
+
+#: inc/extras.php:357
+msgid "Get started with CoziPress"
+msgstr "Розпочати з CoziPress"
+
+#: inc/extras.php:355
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Встановити та активувати плагін <strong>Burger Companion</strong> для отримання усіх переваг, що пропонує ця тема."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:351
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Ласкаво просимо! Дякуємо, що обрали %1$s!"
+
+#: inc/extras.php:344
+msgid "Theme Screenshot"
+msgstr "Скріншот теми"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in CoziPress Pro"
+msgstr "Отримати більше функцій у CoziPress Pro"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Перейти до контенту"
+
+#: inc/extras.php:306
+msgid "Page"
+msgstr "Сторінку"
+
+#: inc/extras.php:301
+msgid "Error 404 "
+msgstr "Помилка 404"
+
+#: inc/extras.php:297
+msgid "Articles posted by "
+msgstr "Статті, опубліковані"
+
+#: inc/extras.php:291
+msgid "Posts tagged "
+msgstr "Відмічені записи"
+
+#: inc/extras.php:188
+msgid "Search results for "
+msgstr "Знайти результати для"
+
+#: inc/extras.php:182
+msgid "Archive by category"
+msgstr "Архів за категорією"
+
+#: inc/extras.php:162
+msgid "Home"
+msgstr "Головна"
+
+#: inc/extras.php:160 inc/extras.php:163
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:128
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/extras.php:124
+msgid "Error 404"
+msgstr "Помилка 404"
+
+#: inc/extras.php:120
+msgid "Tag Archives: %s"
+msgstr "Архів теґу:  %s"
+
+#: inc/extras.php:116
+msgid "Category Archives: %s"
+msgstr "Архів категорії: %s"
+
+#: inc/extras.php:112
+msgid "Yearly Archives: %s"
+msgstr "Архів за рік: %s"
+
+#: inc/extras.php:108
+msgid "Monthly Archives: %s"
+msgstr "Архів за місяць: %s"
+
+#: inc/extras.php:104
+msgid "Daily Archives: %s"
+msgstr "Архів за день:  %s"
+
+#: inc/customizer/customizer-notify/cozipress-notify.php:111
+msgid "Activating"
+msgstr "Активується"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:137
+msgid "Description"
+msgstr "Опис"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:117
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:97
+#: inc/customizer/customizer-options/cozipress-footer.php:170
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:19
+msgid "Blog Section"
+msgstr "Розділ блогу"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:10
+msgid "Frontpage Sections"
+msgstr "Розділ головної сторінки"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:320
+msgid "Margin Bottom"
+msgstr "Відступ знизу"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:301
+msgid "Content"
+msgstr "Вміст"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:280
+msgid "Enable / Disable parallax ?"
+msgstr "Увімкнути / Вимкнути паралакс?"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:242
+msgid "Footer Parallax"
+msgstr "Паралакс підвалу"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:216
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Права захищено &copy; [current_year] [site_title] | За підтримки [theme_author]"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:210
+#: inc/customizer/customizer-options/cozipress-footer.php:230
+msgid "Copyright"
+msgstr "Авторські права"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:189
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:149
+msgid "Icon"
+msgstr "Іконка"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:110
+msgid "Support"
+msgstr "Підтримка"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:91
+msgid "Footer Bottom"
+msgstr "Низ підвалу"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:18
+msgid "Footer Background"
+msgstr "Фон підвалу"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:10
+msgid "Footer"
+msgstr "Підвал"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Вимкнути"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Активувати"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Встановити та активувати"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Рекомендований плагін"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Рекомендовані дії"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer CoziPress."
+msgstr "Встановіть й активуйте плагін <strong>Burger Companion</strong>, щоб скористатися усіма перевагами, що пропонує CoziPress."
+
+#: inc/customizer/customizer-options/cozipress-footer.php:82
+#: inc/customizer/customizer-options/cozipress-general.php:121
+msgid "Fixed"
+msgstr "Фіксовано"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:81
+#: inc/customizer/customizer-options/cozipress-general.php:120
+msgid "Scroll"
+msgstr "Прокручувати"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:80
+#: inc/customizer/customizer-options/cozipress-general.php:119
+msgid "Inherit"
+msgstr "Успадкувати"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:75
+#: inc/customizer/customizer-options/cozipress-general.php:113
+msgid "Background Attachment"
+msgstr "Фоновий додаток"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:56
+#: inc/customizer/customizer-options/cozipress-general.php:94
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:38
+#: inc/customizer/customizer-options/cozipress-general.php:76
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/customizer-options/cozipress-general.php:55
+msgid "Hide / Show Section"
+msgstr "Приховати / Показати розділ"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:40
+#: inc/customizer/customizer-options/cozipress-footer.php:262
+#: inc/customizer/customizer-options/cozipress-general.php:35
+msgid "Settings"
+msgstr "Налаштування"
+
+#: inc/customizer/customizer-options/cozipress-general.php:16
+msgid "Breadcrumb Section"
+msgstr "Налаштування хлібних крихт"
+
+#: inc/customizer/customizer-options/cozipress-general.php:7
+msgid "General"
+msgstr "Загальне"
+
+#: inc/customizer/customizer-options/cozipress-header.php:125
+#: inc/customizer/customizer-options/cozipress-header.php:144
+msgid "Sticky Header"
+msgstr "Приліплений заголовок"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:58
+#: inc/customizer/customizer-options/cozipress-footer.php:129
+#: inc/customizer/customizer-options/cozipress-header.php:71
+#: inc/customizer/customizer-options/cozipress-header.php:111
+#: inc/customizer/customizer-options/cozipress-header.php:161
+msgid "Hide/Show"
+msgstr "Приховати/Показати"
+
+#: inc/customizer/customizer-options/cozipress-header.php:52
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/customizer/customizer-options/cozipress-header.php:34
+msgid "Header Navigation"
+msgstr "Навігація заголовку"
+
+#: inc/customizer/customizer-options/cozipress-header.php:23
+msgid "Site Identity"
+msgstr "Ідентичність сайту"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:78
+#: inc/customizer/customizer-options/cozipress-header.php:12
+msgid "Header"
+msgstr "Заголовок"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Редагувати %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Залиште відгук <span class=\"screen-reader-text\"> на %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Позначено %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Опубліковано у %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "від %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Оприлюднено %s "
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "Додати меню"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Коментарі закрито."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Новіші коментарі"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Старіші коментарі"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: 404.php:21
+msgid "Go to Home"
+msgstr "Перейти додому"
+
+#: 404.php:19
+msgid "The page you were looking for could not be found."
+msgstr "Сторінка, яку ви шукаєте, не існує."
+
+#: 404.php:18
+msgid "4"
+msgstr "4"
+
+#: 404.php:17
+msgid "s"
+msgstr "s"
+
+#: 404.php:17
+msgid "pp"
+msgstr "pp"
+
+#: 404.php:17
+msgid "O"
+msgstr "O"
+
+#: functions.php:128
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Ця область віджетів для віджету WooCommerce"
+
+#: functions.php:126
+msgid "WooCommerce Widget Area"
+msgstr "Область віджетів WooCommerce"
+
+#: functions.php:117
+msgid "The Footer Widget Area"
+msgstr "Область віджетів підвалу"
+
+#: functions.php:115
+msgid "Footer Widget Area"
+msgstr "Область підвалу"
+
+#: functions.php:107
+msgid "The Primary Widget Area"
+msgstr "Початкова область віджету"
+
+#: functions.php:105
+msgid "Sidebar Widget Area"
+msgstr "Область віджетів бічної панелі"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Головна сторінка"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Сторінка на повну ширину"
+
+#: inc/customizer/customizer-options/cozipress-header.php:91 searchform.php:15
+msgid "Search"
+msgstr "Шукати"
+
+#: searchform.php:13
+msgid "Search …"
+msgstr "Пошук..."
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Шукати:"
+
+#: woocommerce/content-product.php:52
+msgid "out of 5"
+msgstr "з 5"
+
+#: woocommerce/content-product.php:52
+msgid "Rated %s out of 5"
+msgstr "Оцінено на %s з 5"
+
+#: woocommerce/content-product.php:33
+msgid "Sale"
+msgstr "Розпродаж"
+
+#: woocommerce/cart/mini-cart.php:123 woocommerce/cart/mini-cart.php:255
+msgid "No products in the cart."
+msgstr "У кошику немає товарів."
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:230
+msgid "Checkout"
+msgstr "Оформлення"
+
+#: woocommerce/cart/mini-cart.php:57 woocommerce/cart/mini-cart.php:190
+msgid "Remove this item"
+msgstr "Видалити цей товар"
+
+#: woocommerce/cart/mini-cart.php:32 woocommerce/cart/mini-cart.php:165
+msgid "Total:"
+msgstr "Разом:"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продовжити читання %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Здається, ми не можемо знайти те, що ви шукаєте. Можливо, допоможе пошук."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "На жаль, але нічого не відповідає вашому пошуковому запиту. Будь ласка, спробуйте ще раз, використовуючи інші ключові слова."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: template-parts/content/content-page-grid.php:53
+#: template-parts/content/content-page.php:53
+#: template-parts/content/content-search.php:53
+msgid "Read More"
+msgstr "Читати далі"
+
+#: template-parts/sections/section-header.php:176
+msgid "Header Above Collapse"
+msgstr "Згортання верху заголовку"
+
+#: template-parts/sections/section-header.php:171
+msgid "Header Close Menu"
+msgstr "Меню закриття заголовку"
+
+#: template-parts/sections/section-header.php:162
+msgid "Menu Collaped"
+msgstr "Згорнуте меню"
+
+#: template-parts/sections/section-header.php:110
+msgid "Search Popup Close"
+msgstr "Закриття спливаючого пошуку"
+
+#: template-parts/sections/section-header.php:107
+msgid "Type To Search"
+msgstr "Введіть для пошуку"
+
+#: template-parts/sections/section-header.php:106
+msgid "Site Search"
+msgstr "Пошук по сайту"
+
+#: template-parts/sections/section-header.php:101
+msgid "Search Popup"
+msgstr "Cпливаючий пошук"
+
+#: inc/extras.php:81 template-parts/sections/section-header.php:82
+#: woocommerce/cart/mini-cart.php:25 woocommerce/cart/mini-cart.php:111
+#: woocommerce/cart/mini-cart.php:158 woocommerce/cart/mini-cart.php:243
+msgid "0"
+msgstr "0"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/cozipress-free/"
+msgstr "https://burgerthemes.com/cozipress-free/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "burgersoftware"
+msgstr "burgersoftware"
